@@ -10,10 +10,10 @@
 
 ## Technologies Used
 
-* HTML
-* CSS & Bootstrap
-* Javascript & jQuery
+* HTML, CSS & Bootstrap
+* Javascript
 * NPM & Webpack
+* Jest
 
 ## Description
 
